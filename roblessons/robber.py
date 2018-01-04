@@ -4,7 +4,7 @@ import time
 from pprint import pprint
 
 ###GLOBALs###
-browser = webdriver.Firefox()
+browser = webdriver.Chrome()
 ENOUGH_WAIT_TIME = 5
 WAIT_TIME = 0.3
 UID = ""
@@ -25,8 +25,9 @@ def init():
 #按课程号选课
 def choose_by_key():
     #想选的ID或任何其他查询条件
-    idss = ["电影"]
+    idss = ["高级Web程序设计","计算机网络","数据库原理"]
     for ids in idss:
+        browser.find_element_by_xpath('//*[@id="searchBox"]/div/div[2]/div/div/div/div/a/span').click()
         browser.find_element_by_name("searchInput").send_keys(ids)
         browser.find_element_by_name("query").click()
 
@@ -34,17 +35,19 @@ def choose_by_key():
             #第一个选课的按钮若没有则异常
             browser.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/div[2]/div[1]/div[2]/table/tbody/tr[1]/td[21]/button').click()
         except:
-            print(ids + "课程选课发生异常")
+            print(ids + " 课程选课发生异常")
             browser.refresh()
             time.sleep(ENOUGH_WAIT_TIME)
             continue
+
         #点击选课 和 点击叉号 循环
         status = choose_loop()
         if status:
-            print(ids + "课程选课成功")
+            print(ids + " 课程选课成功")
+        else :
+            print(ids + " 抢课失败，或学分已经选满")
         browser.refresh()
         time.sleep(ENOUGH_WAIT_TIME)
-        browser.find_element_by_xpath('//*[@id="searchBox"]/div/div[2]/div/div/div/div/a/span')
 
 #通核
 def choose_th():
@@ -64,10 +67,14 @@ def choose_loop():
         i = 1
         while i < coursesNum:
             time.sleep(WAIT_TIME)
-            browser.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/div[2]/div[1]/div[2]/table/tbody/tr['+ str(i) + ']/td[21]/button').click()
+            try :
+                browser.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/div[2]/div[1]/div[2]/table/tbody/tr['+ str(i) + ']/td[21]/button').click()
+            except :
+                return False
             try:
                 #如果没有叉号则选课成功了
-                browser.find_element_by_xpath('/html/body/div[3]/div/div/div[1]/button').click()
+             #   browser.find_element_by_xpath('/html/body/div[3]/div/div/div[1]/button').click()
+                browser.find_element_by_xpath('/div/div/div[1]/button/span[1]').click()
             except:
                 return True
             i+=1
