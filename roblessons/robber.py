@@ -4,13 +4,14 @@ import time
 from pprint import pprint
 
 ###GLOBALs###
-browser = webdriver.Chrome()
+browser = webdriver.Firefox()
 ENOUGH_WAIT_TIME = 5
-WAIT_TIME = 0.3
-UID = ""
-PSWD = ""
+WAIT_TIME = 1
+UID = "2016210813"
+PSWD = "qazwsx1352091742"
 # MOD = 1 为按课程号选课 MOD = 2 为选通核 MOD = 3 为选通选
 MOD = 1
+idss = ["国家形象"]
 
 def init():
     browser.get("https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html")
@@ -25,29 +26,30 @@ def init():
 #按课程号选课
 def choose_by_key():
     #想选的ID或任何其他查询条件
-    idss = ["高级Web程序设计","计算机网络","数据库原理"]
-    for ids in idss:
-        browser.find_element_by_xpath('//*[@id="searchBox"]/div/div[2]/div/div/div/div/a/span').click()
-        browser.find_element_by_name("searchInput").send_keys(ids)
-        browser.find_element_by_name("query").click()
+    while len(idss) :
+        for ids in idss:
+            browser.find_element_by_xpath('//*[@id="searchBox"]/div/div[2]/div/div/div/div/a/span').click()
+            browser.find_element_by_name("searchInput").send_keys(ids)
+            browser.find_element_by_name("query").click()
 
-        try:
-            #第一个选课的按钮若没有则异常
-            browser.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/div[2]/div[1]/div[2]/table/tbody/tr[1]/td[21]/button').click()
-        except:
-            print(ids + " 课程选课发生异常")
+            try:
+                #第一个选课的按钮若没有则异常
+                browser.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/div[2]/div[1]/div[2]/table/tbody/tr[1]/td[21]/button').click()
+            except:
+                print(ids + " 课程选课发生异常")
+                browser.refresh()
+                time.sleep(ENOUGH_WAIT_TIME)
+                continue
+
+            #点击选课 和 点击叉号 循环
+            status = choose_loop()
+            if status:
+                print(ids + " 课程选课成功")
+                idss.remove(ids)
+            else :
+                print(ids + " 抢课失败，或学分已经选满")
             browser.refresh()
             time.sleep(ENOUGH_WAIT_TIME)
-            continue
-
-        #点击选课 和 点击叉号 循环
-        status = choose_loop()
-        if status:
-            print(ids + " 课程选课成功")
-        else :
-            print(ids + " 抢课失败，或学分已经选满")
-        browser.refresh()
-        time.sleep(ENOUGH_WAIT_TIME)
 
 #通核
 def choose_th():
@@ -61,7 +63,7 @@ def choose_tx():
     choose_loop()
 
 def choose_loop():
-    #默认选项第一项，如果为马克思之类很多课需要手动改一共有多少
+#默认选项第一项，如果为马克思之类很多课需要手动改一共有多少
     coursesNum = 15
     while True:
         i = 1
@@ -69,15 +71,16 @@ def choose_loop():
             time.sleep(WAIT_TIME)
             try :
                 browser.find_element_by_xpath('/html/body/div[1]/div/div/div[4]/div/div[2]/div[1]/div[2]/table/tbody/tr['+ str(i) + ']/td[21]/button').click()
+                try:
+                    #如果没有叉号则选课成功了
+                    browser.find_element_by_xpath('/html/body/div[3]/div/div/div[1]/button').click()
+                    print("!!!!!")
+                except:
+                    return True
             except :
-                return False
-            try:
-                #如果没有叉号则选课成功了
-             #   browser.find_element_by_xpath('/html/body/div[3]/div/div/div[1]/button').click()
-                browser.find_element_by_xpath('/div/div/div[1]/button/span[1]').click()
-            except:
-                return True
+                pass
             i+=1
+
 
 if __name__ == '__main__':
     init()

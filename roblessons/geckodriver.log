@@ -1,0 +1,431 @@
+1515077450978	geckodriver	INFO	geckodriver 0.19.1
+1515077450990	geckodriver	INFO	Listening on 127.0.0.1:61521
+1515077452432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.PwszspjMD3N5"
+1515077453019	Marionette	INFO	Enabled via --marionette
+2018-01-04 22:50:54.441 plugin-container[33338:1491375] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077455156	Marionette	INFO	Listening on port 61527
+1515077455192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515077455264	Marionette	DEBUG	Register listener.js for window 2147483649
+1515077455287	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515077463209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515077463209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=BED87D53163BCA137EE2DE9198D71866ecxpW9, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=BED87D53163BCA137EE2DE9198D71866ecxpW9, line 20: ReferenceError: $ is not defined
+1515077466154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077469858	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077470015	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077475116	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077475122	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077475122	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077475207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=proxyConnectFailure&u=http%3A//xk.ccnu.edu.cn//xtgl/index_initMenu.html&c=UTF-8&f=regular&d=Firefox%20is%20configured%20to%20use%20a%20proxy%20server%20that%20is%20refusing%20connections."
+1515077483829	geckodriver	INFO	geckodriver 0.19.1
+1515077483836	geckodriver	INFO	Listening on 127.0.0.1:61677
+1515077485077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.riKnCqoAx6hC"
+1515077485812	Marionette	INFO	Enabled via --marionette
+2018-01-04 22:51:27.101 plugin-container[33377:1492634] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077488041	Marionette	INFO	Listening on port 61683
+1515077488099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515077488176	Marionette	DEBUG	Register listener.js for window 2147483649
+1515077488197	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515077488830	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515077488830	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=E945A6EF37B590BDF66D815A5769E21CN00S6i, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=E945A6EF37B590BDF66D815A5769E21CN00S6i, line 20: ReferenceError: $ is not defined
+1515077489170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077489173	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077489302	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077489671	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077489672	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077491490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077491504	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077496513	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077496776	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077496777	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077497173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077497475	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077502732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077503326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077503638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077504864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077505106	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077518437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077518452	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077518602	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077518602	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077520284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077520549	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077525778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077526362	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077526669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077527967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077527976	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077528214	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077528214	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077531089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077531370	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077536617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077537232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077537482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077538705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077538930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077540264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077540272	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077540530	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077540531	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077542035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077542261	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077547488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077548078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077548325	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077549580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077549808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077563257	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077563275	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077563438	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077563441	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077565149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077565430	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077570668	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077571158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077571458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077572788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077572795	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077572962	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077572963	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077574578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077574808	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077596645	geckodriver	INFO	geckodriver 0.19.1
+1515077596655	geckodriver	INFO	Listening on 127.0.0.1:61925
+1515077597836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.ed2UYQq0Vjqu"
+2018-01-04 22:53:18.679 plugin-container[33432:1495528] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a0b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077598710	Marionette	INFO	Enabled via --marionette
+2018-01-04 22:53:19.873 plugin-container[33434:1495633] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077600502	Marionette	INFO	Listening on port 61931
+1515077600643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515077600733	Marionette	DEBUG	Register listener.js for window 2147483649
+1515077600768	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515077601351	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515077601351	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=E4BB6F223F6E7395B6FF53333043F18CBNm5Wh, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=E4BB6F223F6E7395B6FF53333043F18CBNm5Wh, line 20: ReferenceError: $ is not defined
+1515077601696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077601698	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077601813	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077602250	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077602250	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077604971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077604975	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077609983	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077610233	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077610233	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077610652	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077610892	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077616138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077616677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077616974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077618208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077618432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077663397	geckodriver	INFO	geckodriver 0.19.1
+1515077663405	geckodriver	INFO	Listening on 127.0.0.1:62059
+1515077664508	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.8nfpHs23K6wJ"
+1515077665041	Marionette	INFO	Enabled via --marionette
+2018-01-04 22:54:26.043 plugin-container[33496:1497237] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077666559	Marionette	INFO	Listening on port 62065
+1515077666605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515077666684	Marionette	DEBUG	Register listener.js for window 2147483649
+1515077666775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515077667393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515077667394	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=6F7E79FB26D16A51B9F082C5A5465711mYmMKz, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=6F7E79FB26D16A51B9F082C5A5465711mYmMKz, line 20: ReferenceError: $ is not defined
+1515077667716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077667718	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077667830	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077668207	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077668208	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077669902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077669906	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077674917	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077675158	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077675158	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077675595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077675925	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077681161	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077681708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077682029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077683255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077683483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077697889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077697896	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077698051	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077698051	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077699614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077699808	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077705037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077705559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077705891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077707120	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077707344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077721764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077721986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077768578	geckodriver	INFO	geckodriver 0.19.1
+1515077768585	geckodriver	INFO	Listening on 127.0.0.1:62291
+1515077769676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.buPs9nDME5LX"
+1515077770218	Marionette	INFO	Enabled via --marionette
+2018-01-04 22:56:11.205 plugin-container[33529:1499690] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077771775	Marionette	INFO	Listening on port 62299
+1515077771790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515077771860	Marionette	DEBUG	Register listener.js for window 2147483649
+1515077771901	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515077772861	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515077772862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=C831B42B1606E4B21D94015F30E5B4CEbh38N9, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=C831B42B1606E4B21D94015F30E5B4CEbh38N9, line 20: ReferenceError: $ is not defined
+1515077773186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077773188	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077773298	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077773646	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077773646	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077773951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077774013	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077779028	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077779196	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077779196	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077780905	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077781158	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077786398	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077787080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077787394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077788622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077788847	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077803264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077803486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077817905	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077817919	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077818093	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077818093	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077819709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077819870	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077825100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077825657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077825981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077827208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077827433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077841842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077842067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077856473	geckodriver	INFO	geckodriver 0.19.1
+1515077856479	geckodriver	INFO	Listening on 127.0.0.1:62510
+1515077857695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.4dRqibsTRkq4"
+1515077858319	Marionette	INFO	Enabled via --marionette
+2018-01-04 22:57:39.292 plugin-container[33567:1502094] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077859882	Marionette	INFO	Listening on port 62516
+1515077859917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515077859990	Marionette	DEBUG	Register listener.js for window 2147483649
+1515077860014	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515077860587	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515077860588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=E1BD6FB452C13DCB31EEEAECDFA10CB8RJKc0h, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=E1BD6FB452C13DCB31EEEAECDFA10CB8RJKc0h, line 20: ReferenceError: $ is not defined
+1515077860874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077860877	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077861022	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077861413	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077861413	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077863036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077863070	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077868082	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077868285	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077868285	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077868732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077868972	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077874678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077875235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077875541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077876765	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077876990	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077891497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077891513	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077891676	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077891676	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077892114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077892309	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077897549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077898079	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077898411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077899716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077899727	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077899926	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077899926	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077900425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077900634	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515077905874	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077906501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077906758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077907989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077908212	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077909539	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077909761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077911004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077911224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077912491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077912715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077914017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077914233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515077929035	Marionette	DEBUG	Register listener.js for window 2147483658
+1515077929517	Marionette	DEBUG	Register listener.js for window 4294967297
+2018-01-04 22:58:50.078 plugin-container[33590:1503360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077988891	geckodriver	INFO	geckodriver 0.19.1
+1515077988895	geckodriver	INFO	Listening on 127.0.0.1:62793
+1515077990113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.07wNLxofAnYs"
+1515077990725	Marionette	INFO	Enabled via --marionette
+2018-01-04 22:59:51.691 plugin-container[33619:1504526] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515077992455	Marionette	INFO	Listening on port 62801
+1515077992524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515077992609	Marionette	DEBUG	Register listener.js for window 2147483649
+1515077992887	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515077993474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515077993475	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=3D1B0DCF09223683CB9B69A784E4E947Km4Fxp, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=3D1B0DCF09223683CB9B69A784E4E947Km4Fxp, line 20: ReferenceError: $ is not defined
+1515077993828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077993830	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077994064	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077994426	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077994427	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515077997325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515077997328	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515078002340	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515078002535	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515078002536	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515078002964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515078003288	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515078008527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078009070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078009383	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078010611	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078010841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078025273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078025282	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515078025427	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515078025427	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515078027243	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515078027460	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515078032706	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078033234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078033484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078034712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078034943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078040170	Marionette	DEBUG	Register listener.js for window 2147483656
+1515078040542	Marionette	DEBUG	Register listener.js for window 4294967297
+2018-01-04 23:00:41.102 plugin-container[33625:1505432] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515078049438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078049662	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078064100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078064332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078078768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078078992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078093443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078093664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078108092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078108340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078122777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078122999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078137430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078137654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078152072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078152299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078166709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078166930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078181321	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078181540	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078195937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078196165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078210736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078210962	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078225357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078225577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078242657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078242876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078257867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515078258086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515666958581	geckodriver	INFO	geckodriver 0.19.1
+1515666958599	geckodriver	INFO	Listening on 127.0.0.1:63134
+1515666959957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.GkeQXhzcWhBW"
+1515666960996	Marionette	INFO	Enabled via --marionette
+2018-01-11 18:36:02.208 plugin-container[23080:1192732] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515666963010	Marionette	INFO	Listening on port 63140
+1515666963116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515666963172	Marionette	DEBUG	Register listener.js for window 2147483649
+1515666963194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515666963803	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515666963803	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery.min.js.js;jsessionid=8A5382469E984B203EB654617D343404SAgWuP, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=8A5382469E984B203EB654617D343404SAgWuP, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=8A5382469E984B203EB654617D343404SAgWuP, line 20: ReferenceError: $ is not defined
+1515666964062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515666964064	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515666964248	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515666964697	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515666964697	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515666967398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515666967446	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515666972457	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515666972696	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515666972696	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515666973044	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515666973297	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515666978552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515666979055	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515666979066	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515666979215	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515666979215	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515666981663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515666981920	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515667023342	geckodriver	INFO	geckodriver 0.19.1
+1515667023347	geckodriver	INFO	Listening on 127.0.0.1:63281
+1515667024443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/t2/1wq0lxqn7n90_8cr95s0s63w0000gn/T/rust_mozprofile.L5B3hEPYgt7I"
+1515667024951	Marionette	INFO	Enabled via --marionette
+2018-01-11 18:37:05.977 plugin-container[23110:1193966] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515667026457	Marionette	INFO	Listening on port 63287
+1515667026542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515667026610	Marionette	DEBUG	Register listener.js for window 2147483649
+1515667026629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515667027396	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515667027396	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery.min.js.js;jsessionid=3DBA3205F2887F2F9628C03928171B2AdwN9rh, line 6: SyntaxError: expected expression, got '<'
+JavaScript error: https://account.ccnu.edu.cn/cas/js/jquery-ui.min.js;jsessionid=3DBA3205F2887F2F9628C03928171B2AdwN9rh, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://account.ccnu.edu.cn/cas/js/cas.js;jsessionid=3DBA3205F2887F2F9628C03928171B2AdwN9rh, line 20: ReferenceError: $ is not defined
+1515667027673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515667027674	Marionette	DEBUG	Received DOM event "pageshow" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515667027801	Marionette	DEBUG	Received DOM event "beforeunload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515667028162	Marionette	DEBUG	Received DOM event "pagehide" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515667028163	Marionette	DEBUG	Received DOM event "unload" for "https://account.ccnu.edu.cn/cas/login?service=http%3A%2F%2Fxk.ccnu.edu.cn%2Fssoserver%2Flogin%3Fywxt%3Djw%26url%3Dxtgl%2Findex_initMenu.html"
+1515667029763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515667029769	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515667034779	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515667034952	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515667034953	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xtgl/index_initMenu.html"
+1515667035287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515667035637	Marionette	DEBUG	Received DOM event "pageshow" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515667040881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515667041392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515667041693	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515667042923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515667043152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515667057618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515667057629	Marionette	DEBUG	Received DOM event "beforeunload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515667057765	Marionette	DEBUG	Received DOM event "pagehide" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+1515667057765	Marionette	DEBUG	Received DOM event "unload" for "http://xk.ccnu.edu.cn//xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default&su=2016210813"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
